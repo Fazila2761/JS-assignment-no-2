@@ -20,4 +20,8 @@ console.log(total);
        
 }
 
+function sleep(){
+    document.getElementById("demo")="HI";
+}
+
 
