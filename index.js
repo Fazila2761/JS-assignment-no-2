@@ -21,7 +21,7 @@ console.log(total);
 }
 
 function sleep(){
-    document.getElementById("demo")="HI";
+    document.getElementById("demo").innerHTML="HI";
 }
 
 
